@@ -20,7 +20,7 @@ namespace XCSS3SE
             {
                 Console.WriteLine("{0} > {1}", el.CssSelector(), el.InnerText);
             }
-            
+
             Console.WriteLine("Done!");
             Console.ReadLine();
         }

@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("XCSS3E")]
+[assembly: AssemblyTitle("XCSS3SE")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("XCSS3E")]
+[assembly: AssemblyProduct("XCSS3SE")]
 [assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("f10d8fb8-3056-4864-90a3-21dc29d4a92a")]
+[assembly: Guid("819572b3-36b6-4174-bb6e-141f329e99a0")]
 
 // Version information for an assembly consists of the following four values:
 //
